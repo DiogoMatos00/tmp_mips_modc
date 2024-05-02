@@ -1,0 +1,2 @@
+ID, Severity, Description, Attack Vector, Impact, Attacked Software, Vulnerability found date, Attack Complexity, Vulnerability Type
+1, High, this is an Test Vuln, Network, Potential Damage, xvj11, 30/4/2024, Medium, Bad code implementation
